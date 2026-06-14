@@ -1,2 +1,2 @@
 # playlist-ranker
-This document explains, in detail, what the per-profile "Up Next" ranker does, the knobs that control it, the temporal-holdout evaluation we use to judge it, our preliminary findings, and exactly what the anonymized report contains so you can contribute with confidence.
+A tiny, self-contained study kit for one question: when you build a personalized "Up Next" playlist for a Plex profile, how much should genre taste outweigh a title's overall quality/popularity — and does the way you measure "genre taste" matter?
